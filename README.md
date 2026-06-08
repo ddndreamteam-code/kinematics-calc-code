@@ -21,8 +21,3 @@ Tech Stack
 * **Environment Management:** `python-dotenv`
 * **Core Concepts:** Forward Kinematics, Trigonometry, Process Automation, State Handling
 
-How to Run Locally
-
-1. **Clone the repository:**
-   ```bash
-   git clone [https://github.com/ddndreamteam-code/robot-kinematics-bot.git](https://github.
